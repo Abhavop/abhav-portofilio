@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://unique-patterns-286511.framer.app/sitemap.xml
